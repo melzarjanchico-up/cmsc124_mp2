@@ -6,7 +6,7 @@
 #
 #   NAME:       Melzar Jan E. Chico
 #   COURSE:     CMSC124 B
-#   DATE:       2021 January 31
+#   DATE:       2022 January 31
 #
 #   TASK:       Machine Problem 3 - Lexical and Syntax Analysis (No. 1)
 #   NOTICE:     Here's the BNF grammar given from MP1 No.1:

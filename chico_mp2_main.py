@@ -4,7 +4,7 @@
 
     NAME:       Melzar Jan E. Chico
     COURSE:     CMSC124 B
-    DATE:       2021 January 31
+    DATE:       2022 January 31
     TASK:       Machine Problem 2 - Syntax and Semantics
 """
 
