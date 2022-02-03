@@ -1,0 +1,2 @@
+language = "python3"
+run = "python chico_mp2_main.py"
