@@ -1,6 +1,6 @@
 """
     FILE:       chico_mp2_main.py
-    ABOUT:      An implementation that evaluates an infix, prefix, or postfix notaition.
+    ABOUT:      Menu that contains implementations of parsing a simple expression & palindromes
 
     NAME:       Melzar Jan E. Chico
     COURSE:     CMSC124 B
